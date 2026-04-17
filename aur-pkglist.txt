@@ -1,4 +1,2 @@
 bibata-cursor-theme-bin
 librewolf-bin
-yay
-yay-debug
