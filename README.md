@@ -31,6 +31,9 @@ git clone https://github.com/notmish/Mi3.git
 ```
 ### 1.
 cd into the the newly cloned folder ~/Mi3 (DO NOT GO OUT OF THIS BEFORE FINISHING THIS MANNUAL SETUP)
+```bash
+cd ~/Mi3
+```
 ### 2.
 copy all the files inside (in case folders dosent exists then create them!) .config to your ~/.config
 ```bash
