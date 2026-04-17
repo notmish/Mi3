@@ -11,7 +11,7 @@ Minimal black & white theme
 ![i3 desktop](Pictures/screenshot/screenshot.png)
 
 ## Requirements
-Archlinux minimal installed(either via archinstalled script or mannual), yay installed, all graphics drivers, bluetooth, touchpad(for laptop), wifi setted up.
+Archlinux minimal installed(either via archinstall script or mannual), yay installed, all graphics drivers, bluetooth, touchpad(for laptop), wifi setted up.
 
 ### Install yay (AUR helper)
 ```bash
