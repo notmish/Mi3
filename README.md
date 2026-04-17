@@ -58,6 +58,7 @@ move picom.conf to /etc/xdg/
 ```bash
 sudo mv ~/Mi3/picom.conf /etc/xdg/
 ```
+if youre on virtual machine make sure to turn off vsync on picom.conf else picom wont work
 
 3. install the pacman and yay packages.
    for pacman
@@ -91,7 +92,7 @@ This is a custom configuration for i3 window manager.
 
 ---
 
-## 🧭 Core Apps
+##  Core Apps
 
 - Terminal: `Mod + Enter`
 - File Manager: `Mod + F`
@@ -101,7 +102,7 @@ This is a custom configuration for i3 window manager.
 
 ---
 
-## 🪟 Focus Windows
+##  Focus Windows
 
 - Left: `Mod + J` or `Mod + Left`
 - Down: `Mod + K` or `Mod + Down`
@@ -110,7 +111,7 @@ This is a custom configuration for i3 window manager.
 
 ---
 
-## 🔀 Move Windows
+##  Move Windows
 
 - Left: `Mod + Shift + J`
 - Down: `Mod + Shift + K`
@@ -121,7 +122,7 @@ This is a custom configuration for i3 window manager.
 
 ---
 
-## 🧱 Layout Controls
+##  Layout Controls
 
 - Split Horizontal: `Mod + H`
 - Split Vertical: `Mod + V`
@@ -135,14 +136,14 @@ This is a custom configuration for i3 window manager.
 
 ---
 
-## 🖥️ Workspaces
+##  Workspaces
 
 - Switch workspace 1–10: `Mod + 1 ... Mod + 0`
 - Move window to workspace: `Mod + Shift + 1 ... Mod + Shift + 0`
 
 ---
 
-## 🔄 System Controls
+##  System Controls
 
 - Reload config: `Mod + Shift + C`
 - Restart i3: `Mod + Shift + R`
@@ -150,7 +151,7 @@ This is a custom configuration for i3 window manager.
 
 ---
 
-## 🔊 Volume Controls
+##  Volume Controls
 
 - Volume Up: `Mod + Alt + Right`
 - Volume Down: `Mod + Alt + Left`
@@ -159,14 +160,14 @@ This is a custom configuration for i3 window manager.
 
 ---
 
-## 🔆 Brightness
+##  Brightness
 
 - Increase: `Mod + Alt + Up`
 - Decrease: `Mod + Alt + Down`
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 - Fullscreen: `Mod + Print`
 - Area Select: `Mod + Shift + Print`
@@ -177,14 +178,14 @@ Scripts:
 
 ---
 
-## 🔔 Utilities
+##  Utilities
 
 - Notification history: `Mod + N`
 - Lock screen: `Mod + L`
 
 ---
 
-## 🧠 Notes
+##  Notes
 
 - Mod key = Super (Windows key)
 - Uses tiling workflow with floating support
