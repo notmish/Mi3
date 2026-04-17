@@ -1,9 +1,11 @@
 # Mi3
-my minimal Archlinux i3 dotfiles for me to recover my bare system anytime later
+My minimal Archlinux i3 dotfiles for me to recover my bare system anytime later
 
-feel free to edit stuff or copy it as you need.
+Should work on any distro as long as all the packages in pkglist.txt and aur-pkglist.txt are installed properly
 
-made on my potato laptop to make it work faster as I had more important stuff on desktop
+Feel free to edit stuff or copy it as you need.
+
+Made on my potato laptop to make it work faster as I had more important stuff on desktop
 
 Its minimal uses like 300 mb on idle.
 
