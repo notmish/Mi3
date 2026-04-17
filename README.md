@@ -51,7 +51,7 @@ mv ~/Mi3/Pictures ~/
 ```
 move .bashrc to ~/
 ```bash
-mv~/.bashrc ~/.bashrc.backup
+mv ~/.bashrc ~/.bashrc.backup
 cp ~/Mi3/.bashrc ~/.bashrc
 ```
 move picom.conf to /etc/xdg/
