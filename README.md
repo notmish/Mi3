@@ -10,6 +10,14 @@ Its minimal uses like 300 mb on idle.
 Minimal black & white theme
 ![i3 desktop](Pictures/screenshot/screenshot.png)
 
+##  Notes
+
+- Mod key = Super (Windows key)
+- Uses tiling workflow with floating support
+- Wallpaper set via feh
+- Compositor: picom
+- Notifications: dunst
+
 ## Requirements
 Archlinux minimal installed(either via archinstall script or mannual), yay installed, all graphics drivers, bluetooth, touchpad(for laptop), wifi setted up.
 
@@ -60,7 +68,8 @@ move picom.conf to /etc/xdg/
 ```bash
 sudo mv ~/Mi3/picom.conf /etc/xdg/
 ```
-if youre on virtual machine make sure to turn off vsync on picom.conf else picom wont work
+if youre on virtual machine make sure to turn off vsync on picom.conf else picom wont work.
+
 move .Xresources to ~/
 ```bash
 mv ~/Mi3/.Xresources ~/
@@ -204,14 +213,8 @@ Scripts:
 
 - Notification history: `Mod + N`
 - Lock screen: `Mod + L`
+- To change wallpaper go to the bottom of i3 config and find wallpaper section. there are indication to change the image path which is going to be the wallpaper. to see the wallpaper exit i3 and renter or just reload.
 
 ---
 
-##  Notes
-
-- Mod key = Super (Windows key)
-- Uses tiling workflow with floating support
-- Wallpaper set via feh
-- Compositor: picom
-- Notifications: dunst
 ### theres a config code(copied from dacctal) for Stylus plugin. select Applyies to > Everything and and aslo type * inside the box under Edit style of left top, then paste the code inside Code section. It makes everything square.
