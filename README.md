@@ -84,3 +84,110 @@ Now reboot the system.
 after rebooting start i3 session and from lxappearance select Materia-dark on widget, Papirus-Dark on icon and Bibata-Modern-Ice on mouse cursor.
 ### There's three tmp files inside .local, Pictures and Pictures/screenshot. kindly delete them. If i do my files gets messed up on github
 ## REBOOT
+
+# ⌨️ i3 Keybindings (Mod4 = Super key)
+
+This is a custom configuration for i3 window manager.
+
+---
+
+## 🧭 Core Apps
+
+- Terminal: `Mod + Enter`
+- File Manager: `Mod + F`
+- Browser: `Mod + B`
+- Close Window: `Mod + Q`
+- App Launcher (rofi): `Mod + D`
+
+---
+
+## 🪟 Focus Windows
+
+- Left: `Mod + J` or `Mod + Left`
+- Down: `Mod + K` or `Mod + Down`
+- Right: `Mod + ;` or `Mod + Right`
+- Up: `Mod + Up`
+
+---
+
+## 🔀 Move Windows
+
+- Left: `Mod + Shift + J`
+- Down: `Mod + Shift + K`
+- Up: `Mod + Shift + L`
+- Right: `Mod + Shift + ;`
+
+(Arrow keys also work with Shift)
+
+---
+
+## 🧱 Layout Controls
+
+- Split Horizontal: `Mod + H`
+- Split Vertical: `Mod + V`
+- Fullscreen: `Mod + Shift + F`
+- Toggle Floating: `Mod + Shift + Space`
+- Toggle Focus Floating/Tiling: `Mod + Space`
+- Stacking Layout: `Mod + S`
+- Tabbed Layout: `Mod + W`
+- Toggle Split: `Mod + E`
+- Focus Parent: `Mod + A`
+
+---
+
+## 🖥️ Workspaces
+
+- Switch workspace 1–10: `Mod + 1 ... Mod + 0`
+- Move window to workspace: `Mod + Shift + 1 ... Mod + Shift + 0`
+
+---
+
+## 🔄 System Controls
+
+- Reload config: `Mod + Shift + C`
+- Restart i3: `Mod + Shift + R`
+- Exit i3: `Mod + Shift + E`
+
+---
+
+## 🔊 Volume Controls
+
+- Volume Up: `Mod + Alt + Right`
+- Volume Down: `Mod + Alt + Left`
+- Mute: `Mod + Alt + M`
+- Mic Mute: `XF86AudioMicMute`
+
+---
+
+## 🔆 Brightness
+
+- Increase: `Mod + Alt + Up`
+- Decrease: `Mod + Alt + Down`
+
+---
+
+## 🖼️ Screenshots
+
+- Fullscreen: `Mod + Print`
+- Area Select: `Mod + Shift + Print`
+
+Scripts:
+- `~/.local/bin/screenshot.sh`
+- `~/.local/bin/screenshot-select.sh`
+
+---
+
+## 🔔 Utilities
+
+- Notification history: `Mod + N`
+- Lock screen: `Mod + L`
+
+---
+
+## 🧠 Notes
+
+- Mod key = Super (Windows key)
+- Uses tiling workflow with floating support
+- Wallpaper set via feh
+- Compositor: picom
+- Notifications: dunst
