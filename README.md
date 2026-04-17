@@ -67,5 +67,5 @@ chmod +x screenshot-select.sh screenshot.sh
 ```
 Now reboot the system.
 after rebooting start i3 session and from lxappearance select Materia-dark on widget, Papirus-Dark on icon and Bibata-Modern-Ice on mouse cursor.
-### There's three tmp file inside .local, Pictures and Pictures/screenshot. kindly delete them
-##REBOOT
+### There's three tmp files inside .local, Pictures and Pictures/screenshot. kindly delete them. If i do my files gets messed up on github
+## REBOOT
