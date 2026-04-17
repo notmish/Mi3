@@ -32,8 +32,10 @@ Clone the repo
 cd ~
 git clone https://github.com/notmish/Mi3.git
 ```
-1. cd into the the newly cloned folder ~/Mi3 (DO NOT GO OUT OF THIS BEFORE FINISHING THIS MANNUAL SETUP)
-2. copy all the files inside (in case folders dosent exists then create them!) .config to your ~/.config
+### 1.
+cd into the the newly cloned folder ~/Mi3 (DO NOT GO OUT OF THIS BEFORE FINISHING THIS MANNUAL SETUP)
+### 2.
+copy all the files inside (in case folders dosent exists then create them!) .config to your ~/.config
 ```bash
 cp -r ~/Mi3/.config/* ~/.config/
 ```
@@ -64,7 +66,8 @@ move .Xresources to ~/
 mv ~/Mi3/.Xresources ~/
 ```
 
-3. install the pacman and yay packages.
+### 3.
+install the pacman and yay packages.
    for pacman
 ```bash
 cd ~/Mi3
@@ -75,7 +78,8 @@ sudo pacman -S --needed - < pkglist.txt
 cd ~/Mi3
 yay -S --needed - < aur-pkglist.txt
 ```
-4. make all the executables executable for useage(use sudo if shows error)
+### 4.
+make all the executables executable for useage(use sudo if shows error)
 fehbg for wallpaper
 ```bash
 chmod +x ~/.fehbg
@@ -85,7 +89,7 @@ two of the screenshot scripts (use sudo if gets error)
 cd ~/.local/bin
 chmod +x screenshot-select.sh screenshot.sh
 ```
-##Extra
+## Extra
 for laptops you need to go into ~/.cofnig/i3status/i3status.conf and remove "#" from "#order += "battery all""
 
 Now reboot the system.
