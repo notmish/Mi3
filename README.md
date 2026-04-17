@@ -62,7 +62,6 @@ if youre on virtual machine make sure to turn off vsync on picom.conf else picom
 move .Xresources to ~/
 ```bash
 mv ~/Mi3/.Xresources ~/
-xrdb ~/.Xresources
 ```
 
 3. install the pacman and yay packages.
@@ -91,6 +90,10 @@ for laptops you need to go into ~/.cofnig/i3status/i3status.conf and remove "#" 
 
 Now reboot the system.
 after rebooting start i3 session and from lxappearance select Materia-dark on widget, Papirus-Dark on icon and Bibata-Modern-Ice on mouse cursor.
+do this for proper mouse cursor view:
+```bash
+xrdb ~/.Xresources
+```
 ### There's three tmp files inside .local, Pictures and Pictures/screenshot. kindly delete them. If i do my files gets messed up on github
 ## REBOOT
 
