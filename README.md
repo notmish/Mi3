@@ -11,12 +11,7 @@ Its a minimal black & white theme
 
 ## Requirements
 Archlinux minimal installed(either via archinstalled script or mannual), yay installed, all graphics drivers, bluetooth, touchpad(for laptop), wifi setted up.
-I use sddm so I dont have xinit or stuff. 
-To enable sddm use 
-(do it at the last of Installation)
-```bash
-sudo systemctl enable sddm
-```
+
 ### Install yay (AUR helper)
 ```bash
 sudo pacman -S --needed git base-devel
@@ -92,6 +87,14 @@ chmod +x screenshot-select.sh screenshot.sh
 ```
 ## Extra
 for laptops you need to go into ~/.cofnig/i3status/i3status.conf and remove "#" from "#order += "battery all""
+
+## SDDM
+I use sddm so I dont have xinit or stuff. 
+To enable sddm use 
+(do it at the last of Installation)
+```bash
+sudo systemctl enable sddm
+```
 
 Now reboot the system.
 after rebooting start i3 session and from lxappearance select Materia-dark on widget, Papirus-Dark on icon and Bibata-Modern-Ice on mouse cursor.
