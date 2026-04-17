@@ -10,7 +10,7 @@ Its a minimal black & white theme
 ![i3 desktop](Pictures/screenshot/screenshot.png)
 
 ## Requirements
-Archlinux minimal installed(either via archinstalled script or mannual), yay installed, all graphics drivers, bluetooth, touchpad(for laptop),wifi setted up.
+Archlinux minimal installed(either via archinstalled script or mannual), yay installed, all graphics drivers, bluetooth, touchpad(for laptop), wifi setted up.
 I use sddm so I dont have xinit or stuff. 
 To enable sddm use 
 (do it at the last of Installation)
