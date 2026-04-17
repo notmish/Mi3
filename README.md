@@ -117,7 +117,7 @@ do this for proper mouse cursor view:
 ```bash
 xrdb ~/.Xresources
 ```
-### There's a tmp file inside .local. kindly delete that.
+### There's a tmp file inside .local named deleteme.jpg. kindly delete that.
 
 # ⌨️ i3 Keybindings (Mod4 = Super key)
 
@@ -220,3 +220,4 @@ Scripts:
 ---
 
 ### theres a config code(copied from dacctal) for Stylus plugin. select Applyies to > Everything and and aslo type * inside the box under Edit style of left top, then paste the code inside Code section. It makes everything square.
+![stylus plugin code](.local/deleteme.jpg)
