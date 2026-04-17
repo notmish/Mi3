@@ -192,3 +192,4 @@ Scripts:
 - Wallpaper set via feh
 - Compositor: picom
 - Notifications: dunst
+### theres a config code(copied from dacctal) for Stylus plugin. select Applyies to > Everything and and aslo type * inside the box under Edit style of left top. It makes everything square.
