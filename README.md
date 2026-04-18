@@ -218,6 +218,8 @@ Scripts:
 - To change wallpaper go to the bottom of i3 config and find wallpaper section. there are indication to change the image path which is going to be the wallpaper. to see the wallpaper exit i3 and renter or just reload.
 
 ---
-
-### theres a config code(copied from dacctal) for Stylus plugin. select Applies to > Everything and and aslo type * inside the box under Edit style of left top, then paste the code inside Code section. It makes everything square.
+## Browser (optional)
+theres a config code(copied from dacctal) for Stylus plugin. select Applies to > Everything and and aslo type * inside the box under Edit style of left top, then paste the code inside Code section. It makes everything square.
 ![stylus plugin code](.local/deleteme.jpg)
+
+### Finally delete the Mi3 directory. you don't need that.
