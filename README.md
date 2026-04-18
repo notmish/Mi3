@@ -219,5 +219,5 @@ Scripts:
 
 ---
 
-### theres a config code(copied from dacctal) for Stylus plugin. select Applyies to > Everything and and aslo type * inside the box under Edit style of left top, then paste the code inside Code section. It makes everything square.
+### theres a config code(copied from dacctal) for Stylus plugin. select Applies to > Everything and and aslo type * inside the box under Edit style of left top, then paste the code inside Code section. It makes everything square.
 ![stylus plugin code](.local/deleteme.jpg)
