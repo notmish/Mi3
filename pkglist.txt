@@ -17,7 +17,6 @@ fastfetch
 feh
 ffmpegthumbnailer
 file-roller
-geany
 git
 gst-plugin-pipewire
 gum
