@@ -1,5 +1,7 @@
 # Mi3
-My minimal Archlinux i3 dotfiles for me to recover my bare system anytime later
+My minimal Archlinux i3 dotfiles for me to recover my bare system anytime later.
+
+This setup is mine. should have some unnecessary pkg like cava, catmatrix etc. Even my graphics drivers of amd and intel. So delete them if you dont need. normally it dosent matter. 
 
 Should work on any distro as long as all the packages in [pkglist.txt](./pkglist.txt) and [aur-pkglist.txt](./aur-pkglist.txt) are installed properly
 
