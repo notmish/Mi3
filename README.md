@@ -32,8 +32,29 @@ makepkg -si
 cd ..
 rm -rf yay
 ```
+## Auto Installation (Not recommended)
+this install is only recommended for Archlinux minimal fresh installed systems.
+Always read scripts before running blindly!
+1. clone the repo from ~/
+```bash
+cd ~
+sudo pacman -S git
+git clone https://github.com/notmish/Mi3.git
+```
+2. cd into the directory and give auto-install.sh permission
+```bash
+cd ~/Mi3
+chmod +x auto-install.sh
+```
+3. Run the script
+```bash
+cd ~/Mi3
+./auto-install.sh
+```
 
-## Installation 
+Reboot and and select i3 from sddm or your preferred login manager.
+
+## Mannual Installation 
 Clone the repo
 ```bash
 cd ~
