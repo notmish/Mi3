@@ -1,7 +1,7 @@
 # Mi3
 My minimal Archlinux i3 dotfiles for me to recover my bare system anytime later
 
-Should work on any distro as long as all the packages in pkglist.txt and aur-pkglist.txt are installed properly
+Should work on any distro as long as all the packages in [pkglist.txt](./pkglist.txt) and [aur-pkglist.txt](./aur-pkglist.txt) are installed properly
 
 Feel free to edit stuff or copy it as you need.
 
