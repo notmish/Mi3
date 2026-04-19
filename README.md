@@ -221,5 +221,7 @@ Scripts:
 ## Browser (optional)
 theres a config code(copied from dacctal) for Stylus plugin. select Applies to > Everything and and aslo type * inside the box under Edit style of left top, then paste the code inside Code section. It makes everything square.
 ![stylus plugin code](.local/deleteme.jpg)
+Turn off Auto delete history from settings in librewolf browser. Its a hardened privacy focused browser so if u find any problem just google it and you will find fix.
+Or simply just check all the settings ad turn on and off features 
 
 ### Finally delete the Mi3 directory. you don't need that.
