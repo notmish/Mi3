@@ -27,9 +27,6 @@ i3lock
 i3status
 kitty
 libpulse
-libva-intel-driver
-linux
-linux-firmware
 lsd
 lxappearance
 maim
